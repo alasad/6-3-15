@@ -1,0 +1,9 @@
+F:\asad\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+F:\asad\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+F:\asad\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+F:\asad\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+F:\asad\StudentApp\StudentApp\obj\Debug\StudentApp.StudentInformation.resources
+F:\asad\StudentApp\StudentApp\obj\Debug\StudentApp.Properties.Resources.resources
+F:\asad\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.GenerateResource.Cache
+F:\asad\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+F:\asad\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
